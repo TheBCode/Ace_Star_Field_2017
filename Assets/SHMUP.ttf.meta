@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8aa7db32270ecef4aa93d147d7251b7f
+timeCreated: 1500081801
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SHMUP
+  fontNames:
+  - SHMUP
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
